@@ -1,6 +1,6 @@
 {
-    "name": "anakonProject",
-    "short_name": "anakonProject",
+    "name": "fin_calc",
+    "short_name": "fin_calc",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
