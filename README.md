@@ -1,1 +1,1 @@
-# fincalc.github.io
+# edu.github.io
